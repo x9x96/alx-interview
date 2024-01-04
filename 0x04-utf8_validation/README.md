@@ -35,6 +35,3 @@
     False
     carrie@ubuntu:~/0x04-utf8_validation$
 
-## Resources
-- [UTF-8 wikipedia page](https://en.wikipedia.org/wiki/UTF-8)
-- [youtube](https://www.youtube.com/watch?v=MijmeoH9LT4)
