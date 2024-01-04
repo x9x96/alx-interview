@@ -7,8 +7,7 @@ UTF-8 Validation
 def validUTF8(data):
     """
     data: a list of integers
-    Return: True if data is a valid UTF-8
-    encoding, else return False
+    Return: True if data is a valid UTF-8 encoding, else return False
     """
     byte_count = 0
 
