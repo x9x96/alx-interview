@@ -20,4 +20,13 @@
                 [4, 5, 6],
                 [7, 8, 9]]
 
+        rotate_2d_matrix(matrix)
+        print(matrix)
+
+    jessevhedden$
+    jessevhedden$ ./main_0.py
+    [[7, 4, 1],
+    [8, 5, 2],
+    [9, 6, 3]]
+    jessevhedden$
 
