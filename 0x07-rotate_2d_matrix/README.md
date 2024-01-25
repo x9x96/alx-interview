@@ -7,4 +7,12 @@
     Do not return anything. The matrix must be edited in-place.
     You can assume the matrix will have 2 dimensions and will not be empty.
 
+# Example
+    jessevhedden$ cat main_0.py
+    #!/usr/bin/python3
+    """
+    Test 0x07 - Rotate 2D Matrix
+    """
+    rotate_2d_matrix = __import__('0-rotate_2d_matrix').rotate_2d_matrix
+
 
